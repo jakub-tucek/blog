@@ -1,3 +1,4 @@
+set -e
 npm run build
 git checkout gh-pages
 mv public/* .
