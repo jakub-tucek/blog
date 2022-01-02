@@ -1,0 +1,21 @@
+// fonts
+@import "colors";
+
+@font-face {
+    font-family: Opensans;
+    src: url("../fonts/Open_Sans/OpenSans-Regular.ttf");
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: Opensans;
+    src: url("../fonts/Open_Sans/OpenSans-SemiBold.ttf");
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: Opensans;
+    src: url("../fonts/Open_Sans/OpenSans-Bold.ttf");
+    font-weight: 800;
+    font-style: normal;
+}
